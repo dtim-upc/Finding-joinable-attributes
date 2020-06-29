@@ -1,0 +1,188 @@
+id,filename,uri,comment
+1,whr2015.csv,https://www.kaggle.com/unsdsn/world-happiness,
+2,worldcitiespop.csv,https://www.kaggle.com/max-mind/world-cities-database,
+3,countries_of_the_world.csv,https://www.kaggle.com/fernandol/countries-of-the-world,
+4,Minimum_Wage_Data.csv,https://www.kaggle.com/lislejoem/us-minimum-wage-by-state-from-1968-to-2017,US Minimum Wage by State from 1968 to 2017
+5,cwurData.csv,https://www.kaggle.com/mylesoneill/world-university-rankings,
+6,top50.csv,https://www.kaggle.com/leonardopena/top50spotify2019,
+7,dataSpotify.csv,https://www.kaggle.com/geomack/spotifyclassification,
+8,who_suicide_statistics.csv,https://www.kaggle.com/szamil/who-suicide-statistics,
+9,menu.csv,https://www.kaggle.com/mcdonalds/nutrition-facts,
+10,Netflix_Shows.csv,https://www.kaggle.com/chasewillden/netflix-shows,
+11,netflix_titles.csv,https://www.kaggle.com/shivamb/netflix-shows,
+12,IMDB-Movie-Data.csv,https://www.kaggle.com/PromptCloudHQ/imdb-data,
+13,movie_metadata.csv,https://www.kaggle.com/adnanr94/imdb-movies-metadata,
+14,featuresdf.csv,https://www.kaggle.com/nadintamer/top-tracks-of-2017,spotify songs
+15,top10s.csv,https://www.kaggle.com/leonardopena/top-spotify-songs-from-20102019-by-year,
+16,dataSpotifyClass.csv,https://www.kaggle.com/geomack/spotifyclassification,
+17,billboard_lyrics_1964-2015.csv,https://www.kaggle.com/rakannimer/billboard-lyrics,50 Years of Pop Music Lyrics
+18,song_data.csv,https://www.kaggle.com/edalrami/19000-spotify-songs,19 000 spotify songs
+19,mobile.csv,https://www.kaggle.com/iabhishekofficial/mobile-price-classification,
+20,gender_development.csv,https://www.kaggle.com/undp/human-development,Human Development Index
+21,edu.csv,https://www.kaggle.com/ammon1/education-gnp-and-unemploynment,
+22,WA_Fn-UseC_-HR-Employee-Attrition.csv,https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset, IBM HR performance
+23,Word_University_Rank_2020.csv,https://www.kaggle.com/joeshamen/world-university-rankings-2020,world univerities rank
+24,wikipedia-iso-country-codes.csv,https://www.kaggle.com/juanumusic/countries-iso-codes,
+25,World_countries_env_vars.csv,https://www.kaggle.com/zanderventer/environmental-variables-for-world-countries#World_countries_env_vars.csv,
+26,movies.csv,https://www.kaggle.com/danielgrijalvas/movies,
+27,dataset_1_anneal.csv,https://www.openml.org/d/1,metal information
+28,php9xWOpn.csv,https://www.openml.org/d/1504,A dataset of steel plates' faults, classified into 7 different type
+29,dataset_8_liver-disorders.csv,https://www.openml.org/d/8*,Diagnosing a disorder  medical
+30,dataset_25_colic.ORIG.csv,https://www.openml.org/d/25,Database of surgeries on horses
+31,dataset_2189_lowbwt.csv,https://www.openml.org/d/203,risk factors associated with giving birth to a low birth weight baby
+32,iq_brain_size.csv,https://www.openml.org/d/483,
+33,newton_hema.csv,https://www.openml.org/d/492,
+34,plasma_retinol.csv,https://www.openml.org/d/511*,Determinants of Plasma Retinol and Beta-Carotene Levels
+35,rmftsa_sleepdata.csv,https://www.openml.org/d/679,
+36,Brainsize.csv,https://www.openml.org/d/1093,psychology students brain size
+37,ICU.csv,https://www.openml.org/d/1097,Info patients for their discharge from the hospital
+38,php0iVrYT.csv,https://www.openml.org/d/1464,
+39,phpSRnbqC.csv,https://www.openml.org/d/1490,
+40,dataset_34_postoperative-patient-data.csv,https://www.openml.org/d/34,
+41,dataset_2198_diabetes_numeric.csv,https://www.openml.org/d/34,
+42,dataset_14_mfeat-fourier.csv,https://www.openml.org/d/14,describing features of handwritten numerals (0 - 9) 76 Fourier coefficients
+43,dataset_16_mfeat-karhunen.csv,https://www.openml.org/d/https://www.openml.org/d/16,describing features of handwritten numerals (0 - 9) 64 descriptors from the Karhunen-Loeve Transform
+44,dataset_18_mfeat-morphological.csv,https://www.openml.org/d/18*,describing features of handwritten numerals (0 - 9) unknown
+45,dataset_12_mfeat-factors.csv,https://www.openml.org/d/12*,describing features of handwritten numerals (0 - 9) 216 profile correlations.
+46,dataset_22_mfeat-zernike.csv,https://www.openml.org/d/22,describing features of handwritten numerals (0 - 9) 47 rotation invariant Zernike moments
+47,dataset_28_optdigits.csv,https://www.openml.org/d/28,
+49,wine_quality.csv,https://www.openml.org/d/287,
+50,dataset_191_wine.csv,https://www.openml.org/d/187,
+51,phpRiBb0c.csv,https://www.openml.org/d/1095,cereals information
+52,phpdReP6S.csv,https://www.openml.org/d/1487,
+53,phpjxpMTR.csv,https://www.openml.org/d/1091,
+54,ipums_la_98-small.csv,https://www.openml.org/d/381, PUMS census data from the Los Angeles and Long Beach areas for the years 1970 1980 and 1990
+55,countries_and_continents.csv,https://www.kaggle.com/folaraz/world-countries-and-continents-details,http://www.statoids.com/wab.html
+56,fifa_ranking.csv,https://www.kaggle.com/tadhgfitzgerald/fifa-international-soccer-mens-ranking-1993now,
+1,student-mat.csv,https://www.kaggle.com/uciml/student-alcohol-consumption
+2,books.csv,https://www.kaggle.com/jealousleopard/goodreadsbooks
+3,google_books_dataset.csv,https://www.kaggle.com/bilalyussef/google-books-dataset?select=google_books_dataset.csv
+4,google_books_1299.csv,https://www.kaggle.com/bilalyussef/google-books-dataset?select=google_books_1299.csv,done
+5,GoodReadsAwards.csv,https://www.kaggle.com/somnambwl/book-awards,done
+6,SFF_Dataset.csv,https://www.kaggle.com/capybasilisk/science-fiction-and-fantasy-book-metadata,done
+7,booking.csv,https://www.kaggle.com/shehanaaljaloud/bookingcom,done
+8,df_books.csv,https://www.kaggle.com/rawanalmalki/goodreads-dataset,done
+9,Books_df.csv,https://www.kaggle.com/adweahie/bookdepository-bestsellers,done
+10,NetflixShows.csv,https://www.kaggle.com/chasewillden/netflix-shows,done
+11,hfi_cc_2018.csv,https://www.kaggle.com/gsutters/the-human-freedom-index
+12,acquisitions.csv,https://www.kaggle.com/shivamb/company-acquisitions-7-top-companies
+13,Distributions_data_2016.csv,https://www.kaggle.com/rtatman/silicon-valley-diversity-data?select=Tech_sector_diversity_demographics_2016.csv
+14,Reveal_EEO1_for_2016.csv,https://www.kaggle.com/rtatman/silicon-valley-diversity-data?select=Tech_sector_diversity_demographics_2016.csv
+15,Tech_sector_diversity_demographics_2016.csv,https://www.kaggle.com/rtatman/silicon-valley-diversity-data?select=Tech_sector_diversity_demographics_2016.csv
+16,most_frequent_names.csv,https://www.kaggle.com/xvivancos/barcelona-data-sets?select=most_frequent_names.csv
+17,tv_shows.csv,https://www.kaggle.com/ruchi798/tv-shows-on-netflix-prime-video-hulu-and-disney
+18,MoviesOnStreamingPlatforms_updated.csv,https://www.kaggle.com/ruchi798/movies-on-netflix-prime-video-hulu-and-disney
+19,population_by_country_2020.csv,https://www.kaggle.com/tanuprabhu/population-by-country-2020
+20,training_data_books.csv,https://www.kaggle.com/muthukrishnan/famous-authors-books
+21,books_updated.csv,https://www.kaggle.com/sufyankhot/goodreads-10k-dataset-integrated
+22,language.csv,https://www.kaggle.com/rtatman/world-atlas-of-language-structures
+23,tmdb_5000_movies.csv,https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv
+24,sloganlist.csv,https://www.kaggle.com/chaibapat/slogan-dataset?select=sloganlist.csv
+25,UKDebate.csv,https://www.kaggle.com/timoboz/google-trends-data
+26,SpellingStates.csv,https://www.kaggle.com/timoboz/google-trends-data
+27,colors.csv,https://www.kaggle.com/rtatman/lego-database
+28,themes.csv,https://www.kaggle.com/rtatman/lego-database?select=themes.csv
+29,colorObjects.csv,https://www.kaggle.com/rtatman/color-terms-dataset
+30,colorLiteralNonliteralUses.csv,https://www.kaggle.com/rtatman/color-terms-dataset
+31,colors2.csv,https://www.kaggle.com/carlosaguayo/simple-colors-dataset
+32,USA_cars_datasets.csv,https://www.kaggle.com/doaaalsenani/usa-cers-dataset
+33,cars.csv,https://www.kaggle.com/lepchenkov/usedcarscatalog
+34,Cars93.csv,https://www.kaggle.com/anand0427/cars93
+35,directory.csv,https://www.kaggle.com/starbucks/store-locations
+36,affirmative_asylum.csv,https://www.kaggle.com/dhs/refugee-report
+37,us_companies.csv,https://www.kaggle.com/govlab/open-data-500-companies
+38,world-cities.csv,https://www.kaggle.com/okfn/world-cities
+39,books_2.csv,https://www.kaggle.com/abhi3733/top-100-best-selling-book-on-amazoncom
+40,top_100_books.csv,https://www.kaggle.com/abhi3733/top-100-best-selling-book-on-amazoncom
+41,best_crime_and_mystery_books.csv,https://www.kaggle.com/salmanalmaiman/goodreads-beast-crime-mystery-books
+1,mutagenesis_atom.csv,https://relational.fit.cvut.cz/dataset/Mutagenesis
+2,mutagenesis_bond.csv,https://relational.fit.cvut.cz/dataset/Mutagenesis
+3,mutagenesis_molecule.csv,https://relational.fit.cvut.cz/dataset/Mutagenesis
+4,financial_account.csv,https://relational.fit.cvut.cz/dataset/Financial
+5,financial_account.csv,https://relational.fit.cvut.cz/dataset/Financial
+6,financial_client.csv,https://relational.fit.cvut.cz/dataset/Financial
+7,financial_disp.csv,https://relational.fit.cvut.cz/dataset/Financial
+8,financial_district.csv,https://relational.fit.cvut.cz/dataset/Financial
+9,financial_loan.csv,https://relational.fit.cvut.cz/dataset/Financial
+10,financial_order.csv,https://relational.fit.cvut.cz/dataset/Financial
+11,financial_trans.csv,https://relational.fit.cvut.cz/dataset/Financial
+12,trains_cars.csv,https://relational.fit.cvut.cz/dataset/Trains
+13,trains_trains.csv,https://relational.fit.cvut.cz/dataset/Trains
+14,imdb_ijs_actors.csv,https://relational.fit.cvut.cz/dataset/IMDb
+15,imdb_ijs_directors.csv,https://relational.fit.cvut.cz/dataset/IMDb
+16,imdb_ijs_directors_genres.csv,https://relational.fit.cvut.cz/dataset/IMDb
+1,imdb_ijs_movies.csv,https://relational.fit.cvut.cz/dataset/IMDb
+17,imdb_ijs_movies_genres.csv,https://relational.fit.cvut.cz/dataset/IMDb
+18,imdb_ijs_directors_movies.csv,https://relational.fit.cvut.cz/dataset/IMDb
+19,imdb_ijs_roles.csv,https://relational.fit.cvut.cz/dataset/IMDb
+20,genes_classification.csv,https://relational.fit.cvut.cz/dataset/Genes
+21,genes_genes.csv,https://relational.fit.cvut.cz/dataset/Genes
+22,genes_interactions.csv,https://relational.fit.cvut.cz/dataset/Genes
+23,pte_active.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+24,pte_postestactive.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+25,pte_postestactive_neg.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+26,pte_active_active.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+27,pte_alcohol.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+28,pte_alkyl_halide.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+29,pte_ames.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+30,pte_amine.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+31,pte_atm.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+32,pte_atm_bound_count.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+33,pte_atm_count.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+34,pte_atm_max_charge.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+35,pte_atm_min_charge.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+36,pte_bound.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+37,pte_bound_cnt.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+38,pte_drug.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+39,pte_ester.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+40,pte_ether.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+41,pte_five_ring.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+42,pte_has_property.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+43,pte_imine.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+44,pte_ind.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+45,pte_ketone.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+46,pte_methoxy.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+47,pte_methyl.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+48,pte_mutagenic.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+49,pte_nitro.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+50,pte_non_ar_5c_ring.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+51,pte_non_ar_6c_ring.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+52,pte_non_ar_hetero_5_ring.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+53,pte_non_ar_hetero_6_ring.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+54,pte_number.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+55,pte_phenol.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+56,pte_six_ring.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+57,pte_sulfide.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+58,pte_sulfo.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+59,pte_testactive.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+60,pte_testactive_Neg.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/PTE.svg
+65,biodegradability_atom.csv,https://relational.fit.cvut.cz/dataset/Biodegradability
+66,biodegradability_bond.csv,https://relational.fit.cvut.cz/dataset/Biodegradability
+67,biodegradability_gmember.csv,https://relational.fit.cvut.cz/dataset/Biodegradability
+68,biodegradability_group.csv,https://relational.fit.cvut.cz/dataset/Biodegradability
+69,biodegradability_molecule.csv,https://relational.fit.cvut.cz/dataset/Biodegradability
+70,muskSmall_molecule.csv,https://relational.fit.cvut.cz/dataset/Musk
+71,muskSmall_conformation.csv,https://relational.fit.cvut.cz/dataset/Musk
+78,countries_metadatacountries.csv,https://relational.fit.cvut.cz/
+79,countries_data.csv,https://relational.fit.cvut.cz/
+80,countries_indicators.csv,https://relational.fit.cvut.cz/
+81,countries_target.csv,https://relational.fit.cvut.cz/
+82,world_city.csv,https://relational.fit.cvut.cz/
+83,world_country.csv,https://relational.fit.cvut.cz/
+84,world_countryLanguage.csv,https://relational.fit.cvut.cz/
+85,AdventureWorks2014_CountryRegion.csv,https://relational.fit.cvut.cz/assets/img/datasets-generated/AdventureWorks2014.svg
+86,AdventureWorks2014_CountryRegionCurrency.csv
+87,AdventureWorks2014_CreditCard.csv
+88,AdventureWorks2014_culture.csv
+89,AdventureWorks2014_currency.csv
+90,AdventureWorks2014_currencyRate.csv
+91,AdventureWorks2014_department.csv
+92,AdventureWorks2014_employee.csv
+93,AdventureWorks2014_salesTerritory.csv
+94,AdventureWorks2014_shift.csv
+95,AdventureWorks2014_specialoffer.csv
+96,AdventureWorks2014_stateprovince.csv
+97,AdventureWorks2014_unitmeasure.csv
+98,AdventureWorks2014_vendor.csv,*
+99,
+100,
